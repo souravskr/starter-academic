@@ -30,7 +30,7 @@ education:
     - course: M.S. in Computer Science (GPA 3.75/4.0)
       institution: Memorial University of Newfoundland
       # year: 2021
-    - course: B.S. in Information & Communication Engineering (GPA 3.75/4.0)
+    - course: B.S. in Information & Communication Engineering (GPA 3.89/4.0)
       institution: East-West University
       # year: 2015
 
@@ -72,4 +72,4 @@ Being an open-minded individual, I always like to cope with new challenges, take
 
 Recent graduate from Memorial University and currently looking for a full-time job in Software Development.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
