@@ -29,9 +29,9 @@ twitter: "https://twitter.com/souravsker"
 #   postcode: "A1B 2B7"
 #   country: Canada
 #   country_code: CA
-# coordinates:
-#   latitude: "47.5695"
-#   longitude: "-52.7343"
+coordinates:
+  latitude: "47.5695"
+  longitude: "-52.7343"
 # contact_links:
 #   - icon: twitter
 #     icon_pack: fab
