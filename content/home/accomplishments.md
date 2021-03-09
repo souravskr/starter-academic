@@ -53,7 +53,7 @@ item:
     description: ""
     organization: mongoDB University
     organization_url: https://university.mongodb.com/
-    title: A300 - Atlas Security
+    title: "A300 - Atlas Security"
     url: ""
   - certificate_url: https://university.mongodb.com/course_completion/c483651c-4d75-4ba6-953d-9c46655f2b0b?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing
     date_end: ""
@@ -61,7 +61,7 @@ item:
     description: ""
     organization: mongoDB University
     organization_url: https://university.mongodb.com/
-    title: M001: MongoDB Basics
+    title: "M001 - MongoDB Basics"
     url: ""
   - certificate_url: https://www.udemy.com/certificate/UC-a1803c1e-9ae0-4d8e-8127-a338feb31e03/
     date_end: ""
