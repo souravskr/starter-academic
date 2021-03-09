@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description:
+  - description: 0%
     icon: python
     icon_pack: fab
     name: Python
@@ -32,37 +32,30 @@ feature:
       icon: database
       icon_pack: fas
       name: SQL
-
   - description:
       icon: envira
       icon_pack: fas
       name: MongoDB
-
   - description:
     icon: affiliatetheme
     icon_pack: fas
     name: Flask
-
   - description:
     icon: node
     icon_pack: fas
     name: Node.js
-
   - description:
       icon: docker
       icon_pack: fas
       name: Docker
-
   - description:
     icon: aws
     icon_pack: fas
     name: AWS
-
   - description:
     icon: cloudversify
     icon_pack: fas
     name: Terraform
-
   - description:
     icon: github-alt
     icon_pack: fas
