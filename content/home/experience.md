@@ -31,28 +31,28 @@ experience:
     description: |2-
 
         * Teaching assistant of the Discrete Mathematics (COMP 1002).
-        * Prepared questions for quiz drills and assisted students in scheduled labs and grading
+        * Prepared questions for quiz drills and assisted students in scheduled labs and grading.
 
   - title: Cloud Developer Analyst (Co-op)
     company: Inmarsat
     company_url: "http://inmarsat.com/"
     location: Mount Pearl
     date_start: "2020-01-06"
-    date_end: "2020-04-31"
+    date_end: "2020-04-30"
     description: >-
 
       * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
       * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
       * Developed a proof of concept by working on writing code for an AWS Lambda function and introduced with CI/CD process.
 
-  # - title: Associate DevOps Engineer
-  #   company: Transcom Limited
-  #   company_url: "https://transcombd.com/"
-  #   location: BD
-  #   date_start: "2016-01-01"
-  #   date_end: "2018-11-30"
-  #   description: |2-
+  - title: Associate DevOps Engineer
+    company: Transcom Limited
+    company_url: "https://transcombd.com/"
+    location: BD
+    date_start: "2016-01-01"
+    date_end: "2018-11-30"
+    description: |2-
 
-  #       * Planned and developed a cloud storage solution that saved the company from massive investment in google drive or Dropbox.
-  #       * Assisted in developing a new automated update process of windows and linux servers from a central secured update repository.
+        * Planned and developed a cloud storage solution that saved the company from massive investment in google drive or Dropbox.
+        * Assisted in developing a new automated update process of windows and linux servers from a central secured update repository.
 ---
