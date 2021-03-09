@@ -29,13 +29,13 @@ feature:
     icon_pack: fab
     name: Java
   - description: 0%
-      icon: database
-      icon_pack: fab
-      name: SQL
+    icon: database
+    icon_pack: fab
+    name: SQL
   - description: 0%
-      icon: envira
-      icon_pack: fab
-      name: MongoDB
+    icon: envira
+    icon_pack: fab
+    name: MongoDB
   - description: 0%
     icon: affiliatetheme
     icon_pack: fab
@@ -45,9 +45,9 @@ feature:
     icon_pack: fab
     name: Node.js
   - description: 0%
-      icon: docker
-      icon_pack: fab
-      name: Docker
+    icon: docker
+    icon_pack: fab
+    name: Docker
   - description: 0%
     icon: aws
     icon_pack: fab
@@ -56,7 +56,7 @@ feature:
     icon: cloudversify
     icon_pack: fab
     name: Terraform
-  - description: 0%
+  - description:
     icon: github-alt
     icon_pack: fab
     name: Git
