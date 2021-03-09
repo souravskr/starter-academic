@@ -27,12 +27,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science (GPA 3.75/4.0)
+    - course: M.S. in Computer Science
       institution: Memorial University of Newfoundland
       year: 2021
-    - course: B.S. in Information & Communication Engineering (GPA 3.75/4.0)
+      gpa: 3.75/4.0
+    - course: B.S. in Information & Communication Engineering
       institution: East-West University
       year: 2015
+      gpa: 3.89/4.0
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "souravsker@gmail.com"
