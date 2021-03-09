@@ -27,14 +27,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science
+    - course: M.S. in Computer Science (GPA 3.75/4.0)
       institution: Memorial University of Newfoundland
       year: 2021
-      gpa: 3.75/4.0
-    - course: B.S. in Information & Communication Engineering
+    - course: B.S. in Information & Communication Engineering (GPA 3.75/4.0)
       institution: East-West University
       year: 2015
-      gpa: 3.89/4
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
