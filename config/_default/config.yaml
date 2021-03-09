@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sourav Sarker Portfolio # Website name
+title: Sourav Sarker # Website name
 baseurl: "https://souravs.netlify.app/" # Website URL
-copyright: "© {2021} Sourav Sarker All rights reserved" # Footer text, e.g. '© {year} Me'
+copyright: "© 2021 Sourav" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
