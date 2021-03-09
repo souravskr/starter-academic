@@ -31,7 +31,7 @@ feature:
   - description:
     icon: brain
     icon_pack: fas
-    name: Git
+    name: Machine Learning
   - description:
     icon: database
     icon_pack: fas
