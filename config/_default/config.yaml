@@ -5,7 +5,7 @@
 
 title: Sourav Sarker # Website name
 baseurl: "https://souravs.netlify.app/" # Website URL
-copyright: "© 2021 Sourav" # Footer text, e.g. '© {year} Me'
+copyright: "© 2021 Me" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
