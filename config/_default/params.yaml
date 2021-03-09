@@ -20,27 +20,27 @@ twitter: "https://twitter.com/souravsker"
 
 # Contact (edit or remove options as required)
 
-email: souravsker@gmail.com
-phone: +1 709 699 1468
-address:
-  street: 41 Weymouth St.
-  city: St. John's
-  region: NL
-  postcode: "A1B 2B7"
-  country: Canada
-  country_code: CA
-coordinates:
-  latitude: "47.5695"
-  longitude: "-52.7343"
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: "https://twitter.com/souravsker"
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: "skype:echo123?call"
+# email: souravsker@gmail.com
+# phone: +1 709 699 1468
+# address:
+#   street: 41 Weymouth St.
+#   city: St. John's
+#   region: NL
+#   postcode: "A1B 2B7"
+#   country: Canada
+#   country_code: CA
+# coordinates:
+#   latitude: "47.5695"
+#   longitude: "-52.7343"
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: DM Me
+#     link: "https://twitter.com/souravsker"
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: "skype:echo123?call"
 
 # Site header
 
