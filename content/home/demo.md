@@ -4,8 +4,8 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
-headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Academic Template"
