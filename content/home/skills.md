@@ -20,43 +20,43 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description:
+  - description: 0%
     icon: js-square
     icon_pack: fas
     name: JavaScript
-  - description:
+  - description: 0%
     icon: java
     icon_pack: fas
     name: Java
-  - description:
+  - description: 0%
       icon: database
       icon_pack: fas
       name: SQL
-  - description:
+  - description: 0%
       icon: envira
       icon_pack: fas
       name: MongoDB
-  - description:
+  - description: 0%
     icon: affiliatetheme
     icon_pack: fas
     name: Flask
-  - description:
+  - description: 0%
     icon: node
     icon_pack: fas
     name: Node.js
-  - description:
+  - description: 0%
       icon: docker
       icon_pack: fas
       name: Docker
-  - description:
+  - description: 0%
     icon: aws
     icon_pack: fas
     name: AWS
-  - description:
+  - description: 0%
     icon: cloudversify
     icon_pack: fas
     name: Terraform
-  - description:
+  - description: 0%
     icon: github-alt
     icon_pack: fas
     name: Git
