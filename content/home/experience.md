@@ -39,11 +39,11 @@ experience:
     location: Mount Pearl
     date_start: "2020-01-06"
     date_end: "2020-04-31"
-    description: |2-
+    description: >-
 
-        * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
-        * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
-        * Developed a proof of concept by working on writing code for an AWS Lambda function and introduced with CI/CD process.
+      * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
+      * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
+      * Developed a proof of concept by working on writing code for an AWS Lambda function and introduced with CI/CD process.
 
   # - title: Associate DevOps Engineer
   #   company: Transcom Limited
