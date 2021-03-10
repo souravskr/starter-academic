@@ -8,7 +8,7 @@ tags:
   - web
 external_link: https://github.com/souravskr/image_processing_object_detection
 image:
-  filename: ""
+  filename: fetured.png
   focal_point: Smart
   preview_only: false
 ---
