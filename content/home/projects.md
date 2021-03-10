@@ -28,7 +28,7 @@ content:
     - name: All
       tag: "*"
     - name: Python
-      tags: python
+      tag: python
     - name: Web
       tag: web
     - name: Machine Learning
