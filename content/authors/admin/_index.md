@@ -72,4 +72,4 @@ Being an open-minded individual, I always like to cope with new challenges, take
 
 Recent graduate from Memorial University and currently looking for a full-time job in Software Development.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/static/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
