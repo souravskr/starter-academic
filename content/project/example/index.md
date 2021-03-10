@@ -13,7 +13,7 @@ tags:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  filename: fetured.png
+  filename: ""
 url_code: ""
 ---
 
