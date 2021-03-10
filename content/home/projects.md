@@ -28,7 +28,7 @@ content:
     - name: All
       tag: "*"
     - name: Python
-      tags: ["python", "dv"]
+      tags: python
     - name: Web
       tag: web
     - name: Machine Learning

@@ -1,12 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: NeuroSAT, A Graph Neural Network Based Predictor for SAT Problem
+summary: This study will explore a Graph Neural Network (GNN) based SAT solver named "NeuroSAT." We looked at a variety of SAT problems to see which of them NeuroSAT can solve, and which instances remain difficult. 
+tags: ["python", "ml"]
+* Python
+* CNFgen
+* Matplotlib
+- 
+date: "2020-12-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/souravskr/MS-Project"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -27,7 +30,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
