@@ -51,6 +51,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sourav-s
+  - icon: file-download
+    icon_pack: fas
+    link: https://github.com/souravskr/starter-academic/blob/master/static/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -72,4 +75,4 @@ Being an open-minded individual, I always like to cope with new challenges, take
 
 Recent graduate from Memorial University and currently looking for a full-time job in Software Development.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/static/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "/static/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
