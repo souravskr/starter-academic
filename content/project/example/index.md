@@ -1,8 +1,8 @@
 ---
 title: NeuroSAT, A Graph Neural Network Based Predictor for SAT Problem
 summary: This study explores a Graph Neural Network (GNN) based SAT solver named NeuroSAT
-tag: ml
-- 
+tags:
+  -
 date: "2020-12-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -13,15 +13,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
