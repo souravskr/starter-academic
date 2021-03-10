@@ -1,6 +1,9 @@
 ---
 title: NeuroSAT, A Graph Neural Network Based Predictor for SAT Problem
-summary: This study explores a Graph Neural Network (GNN) based SAT solver named NeuroSAT
+summary:
+  This study explores a Graph Neural Network (GNN) based SAT solver named NeuroSAT
+  * Python
+  * Neural Network
 tags:
   -
 date: "2020-12-12T00:00:00Z"
