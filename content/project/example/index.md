@@ -5,13 +5,14 @@ summary: >-
   This study explores a Graph Neural Network (GNN) based SAT solver named
   NeuroSAT
 
-  - Python
 
-  - CNFgen
+  * `Python`
 
-  - Matplotlib
+  * `CNFgen`
+
+  * `Matplotlib`
 url_video: ""
-date: 2020-12-12T00:00:00Z
+date: 2020-12-12T00:00:00.000Z
 external_link: https://github.com/souravskr/MS-Project
 url_slides: ""
 subtitle: ""
