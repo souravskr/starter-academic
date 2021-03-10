@@ -6,9 +6,9 @@ draft: false
 featured: false
 tags:
   - web
-external_link: https://github.com/souravskr/image_processing_object_detection
+external_link: https://github.com/souravskr/Natures-Palette
 image:
-  filename: fetured.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
