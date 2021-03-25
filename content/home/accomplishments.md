@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://codewithmosh.com/courses/580597/certificate
+    date_end: ""
+    date_start: "2021-03-01"
+    description: ""
+    organization: Code With Mosh
+    organization_url: https://codewithmosh.com/
+    title: "Ultimate Java Part 2: Object-oriented Programming"
+    url: ""
   - certificate_url: https://www.linkedin.com/learning/continuous-integration-tools?trk=flagship-lil_details_certification
     date_end: ""
     date_start: "2021-02-01"
