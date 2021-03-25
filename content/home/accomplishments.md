@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://codewithmosh.com/courses/580597/certificate
+  - certificate_url: https://github.com/souravskr/starter-academic/blob/master/static/certs/certificate-of-completion-for-ultimate-java-part-2-object-oriented-programming.pdf
     date_end: ""
     date_start: "2021-03-01"
     description: ""
@@ -31,7 +31,7 @@ item:
     organization_url: https://codewithmosh.com/
     title: "Ultimate Java Part 2: Object-oriented Programming"
     url: ""
-  - certificate_url: https://www.linkedin.com/learning/continuous-integration-tools?trk=flagship-lil_details_certification
+  - certificate_url: https://github.com/souravskr/starter-academic/blob/master/static/certs/CertificateOfCompletion_Continuous%20Integration%20Tools.pdf
     date_end: ""
     date_start: "2021-02-01"
     description: ""
@@ -39,7 +39,7 @@ item:
     organization_url: https://www.linkedin.com
     title: Continuous Integration - Tools
     url: ""
-  - certificate_url: https://www.linkedin.com/learning/devops-foundations-containers?trk=flagship-lil_details_certification
+  - certificate_url: https://github.com/souravskr/starter-academic/blob/master/static/certs/CertificateOfCompletion_DevOps%20Foundations%20Containers.pdf
     date_end: ""
     date_start: "2021-02-01"
     description: ""
@@ -47,7 +47,7 @@ item:
     organization_url: https://www.linkedin.com
     title: DevOps Foundations - Containers
     url: ""
-  - certificate_url: https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code?trk=flagship-lil_details_certification
+  - certificate_url: https://github.com/souravskr/starter-academic/blob/master/static/certs/CertificateOfCompletion_DevOps%20Foundations%20Infrastructure%20as%20Code.pdf
     date_end: ""
     date_start: "2021-02-01"
     description: ""
