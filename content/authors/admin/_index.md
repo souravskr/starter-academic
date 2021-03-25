@@ -69,9 +69,9 @@ email: "souravsker@gmail.com"
 highlight_name: false
 ---
 
-I own almost 2+ years of software development experience with Python with a LinkedIn Skill Assessment badge, JavaScript and version control system.
+Resourceful computer science graduate passionate about software development and cloud computing.
 
-Being an open-minded individual, I always like to cope with new challenges, take on new opportunities, learn new skills. I am interested in Software/Web Development, Cloud Computing, Data Science and Data Visualization. Turn my ideas to solve real-world problems into a reality is one of my favourite hobbies.
+Highly-capable leader, having led multiple class projects to completion. Talented at object-oriented design, functional programming paradigms and various development languages. Demonstrated mastery of Python, Java and Javascript as well as passion for continual learning.
 
 Recent graduate from Memorial University and currently looking for a full-time job in Software Development.
 
