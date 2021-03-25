@@ -14,7 +14,7 @@ organizations:
     url: https://www.mun.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am passionate on Software/Web Development, Cloud Computing, Data Science and Data Visualization.
 
 # Interests to show in About widget
 interests:
