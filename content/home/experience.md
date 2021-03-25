@@ -33,7 +33,7 @@ experience:
         * Teaching assistant of the Discrete Mathematics (COMP 1002).
         * Prepared questions for quiz drills and assisted students in scheduled labs and grading.
 
-  - title: Cloud Developer Analyst (Co-op)
+  - title: Cloud Delivery Engineer (Co-op)
     company: Inmarsat
     company_url: "http://inmarsat.com/"
     location: Mount Pearl
@@ -45,7 +45,7 @@ experience:
         * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
         * Developed a proof of concept by working on writing code for an AWS Lambda function and introduced with CI/CD process.
 
-  - title: Associate DevOps Engineer
+  - title: DevOps Engineer
     company: SK+F
     company_url: "https://www.skfbd.com/"
     location: BD
