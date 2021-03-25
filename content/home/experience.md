@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant
+  - title: Graduate Teaching Assistant
     company: Memorial University of Newfoundland
     company_url: "https://www.mun.ca"
     location: St. John's
@@ -30,7 +30,7 @@ experience:
     date_end: "2020-12-14"
     description: |2-
 
-        * Teaching assistant of the Discrete Mathematics (COMP 1002).
+        * Checked assignments, proctored tests, and provided grades according to university standards.
         * Prepared questions for quiz drills and assisted students in scheduled labs and grading.
 
   - title: Cloud Delivery Engineer (Co-op)
@@ -43,7 +43,7 @@ experience:
 
         * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
         * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
-        * Developed a proof of concept by working on writing code for an AWS Lambda function and introduced with CI/CD process.
+        * Demonstrated my quick learning ability with a proof of concept by working on writing python code for an AWS Lambda function and CI/CD process.
 
   - title: DevOps Engineer
     company: SK+F
@@ -53,6 +53,7 @@ experience:
     date_end: "2018-11-30"
     description: |2-
 
-        * Planned and developed a cloud storage solution that saved the company from massive investment in google drive or Dropbox.
-        * Assisted in developing a new automated update process of windows and linux servers from a central secured update repository.
+        * Monitored automated build and continuous software integration process to drive build/release failure resolution.
+        * Implemented new software applications and operating system roll-outs across business enterprise, including Sage ACCPAC and MYSQL.
+        * Researched and identified new technologies and tools helping to grow agile development environment.
 ---
