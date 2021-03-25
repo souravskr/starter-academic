@@ -79,7 +79,7 @@ item:
     organization_url: https://www.udemy.com/
     title: "Terraform for AWS – Beginner to Expert 2020"
     url: ""
-  - certificate_url: https://codewithmosh.com/courses/580597/certificate
+  - certificate_url: https://github.com/souravskr/starter-academic/blob/master/static/certs/certificate-of-completion-for-ultimate-java-part-1-fundamentals.pdf
     date_end: ""
     date_start: "2020-08-01"
     description: ""
