@@ -69,7 +69,7 @@ email: "souravsker@gmail.com"
 highlight_name: false
 ---
 
-Resourceful computer science graduate passionate about software development and cloud computing.
+Resourceful computer science graduate passionate about software development, data science and cloud computing.
 
 Highly-capable leader, having led multiple class projects to completion. Talented at object-oriented design, functional programming paradigms and various development languages. Demonstrated mastery of Python, Java and Javascript as well as passion for continual learning.
 
