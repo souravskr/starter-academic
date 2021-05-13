@@ -45,11 +45,11 @@ experience:
         * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
         * Demonstrated my quick learning ability with a proof of concept by working on writing python code for an AWS Lambda function and CI/CD process.
 
-  - title: Assistant System Administrator
-    company: Transcom
+  - title: Jr. DevOps Engineer
+    company: SK+F
     company_url: "https://www.skfbd.com/"
     location: BD
-    date_start: "2012-07-01"
+    date_start: "2016-01-01"
     date_end: "2018-11-30"
     description: |2-
 
