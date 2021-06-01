@@ -45,15 +45,15 @@ experience:
         * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
         * Demonstrated my quick learning ability with a proof of concept by working on writing python code for an AWS Lambda function and CI/CD process.
 
-  - title: Jr. DevOps Engineer
-    company: SK+F
-    company_url: "https://www.skfbd.com/"
-    location: BD
-    date_start: "2016-01-01"
-    date_end: "2018-11-30"
-    description: |2-
+  # - title: Jr. DevOps Engineer
+  #   company: SK+F
+  #   company_url: "https://www.skfbd.com/"
+  #   location: BD
+  #   date_start: "2016-01-01"
+  #   date_end: "2018-11-30"
+  #   description: |2-
 
-        * Monitored automated build and continuous software integration process to drive build/release failure resolution.
-        * Implemented new software applications and operating system roll-outs across business enterprise, including Sage ACCPAC and MYSQL.
-        * Researched and identified new technologies and tools helping to grow agile development environment.
+  #       * Monitored automated build and continuous software integration process to drive build/release failure resolution.
+  #       * Implemented new software applications and operating system roll-outs across business enterprise, including Sage ACCPAC and MYSQL.
+  #       * Researched and identified new technologies and tools helping to grow agile development environment.
 ---
