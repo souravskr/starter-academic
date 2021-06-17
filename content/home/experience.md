@@ -33,7 +33,7 @@ experience:
         * Checked assignments, proctored tests, and provided grades according to university standards.
         * Prepared questions for quiz drills and assisted students in scheduled labs and grading.
 
-  - title: Cloud Delivery Engineer (Co-op)
+  - title: Jr. Cloud Engineer (Co-op)
     company: Inmarsat
     company_url: "http://inmarsat.com/"
     location: Mount Pearl
