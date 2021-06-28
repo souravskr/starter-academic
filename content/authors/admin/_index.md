@@ -31,7 +31,7 @@ education:
       institution: Memorial University of Newfoundland
       # year: 2021
     - course: B.S. in Information & Communication Engineering (GPA 3.89/4.0)
-      institution: Eastwest University
+      institution: Southeast University
       # year: 2015
 
 # Social/Academic Networking
