@@ -30,7 +30,9 @@ experience:
     # date_end: "--"
     description: |2-
 
-        * Will be involving in developing of AWS cloud infrastructure automation.
+        * Will be involving in the development of AWS cloud infrastructure automation by Terraform.
+        * Will also be developing customized Amazon Machine Images.
+        * Docker containerization. 
 
   - title: Graduate Teaching Assistant
     company: Memorial University of Newfoundland
