@@ -6,7 +6,7 @@ title: Sourav Sarker
 superuser: true
 
 # Role/position/tagline
-role: Software Developer | DevOps Developer
+role: Software Developer | Cloud Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,6 +73,6 @@ Resourceful computer science graduate passionate about software development, dat
 
 Highly-capable leader, having led multiple class projects to completion. Talented at object-oriented design, functional programming paradigms and various development languages. Demonstrated mastery of Python, Java and Javascript as well as passion for continual learning.
 
-Recent graduate from Memorial University and currently looking for a full-time job in Software Development.
+<!-- Recent graduate from Memorial University and currently looking for a full-time job in Software Development. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "/static/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
