@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Cloud Developer
+    company: Sequence Bio
+    company_url: "http://www.sequencebio.com/"
+    location: St. John's
+    date_start: "2021-07-12"
+    date_end: "--"
+    description: |2-
+
+        * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
+        * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
+        * Demonstrated my quick learning ability with a proof of concept by working on writing python code for an AWS Lambda function and CI/CD process.
+
   - title: Graduate Teaching Assistant
     company: Memorial University of Newfoundland
     company_url: "https://www.mun.ca"
