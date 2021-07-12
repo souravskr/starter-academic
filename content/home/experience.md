@@ -27,12 +27,10 @@ experience:
     company_url: "http://www.sequencebio.com/"
     location: St. John's
     date_start: "2021-07-12"
-    date_end: "--"
+    # date_end: "--"
     description: |2-
 
-        * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
-        * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
-        * Demonstrated my quick learning ability with a proof of concept by working on writing python code for an AWS Lambda function and CI/CD process.
+        * Will be involving in developing of AWS cloud infrastructure automation.
 
   - title: Graduate Teaching Assistant
     company: Memorial University of Newfoundland
