@@ -12,6 +12,10 @@ role: Software Developer | Cloud Developer
 organizations:
   - name: Memorial University of Newfoundland
     url: https://www.mun.ca/
+  
+organizations:
+  - name: Memorial University of Newfoundland
+    url: https://www.mun.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am passionate on Software/Web Development, Cloud Computing, Data Science and Data Visualization.
