@@ -10,12 +10,12 @@ role: Software Developer | Cloud Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Memorial University of Newfoundland
+  - name: Sequence Bio | Memorial University of Newfoundland
     url: https://www.mun.ca/
   
-organizations:
-  - name: Memorial University of Newfoundland
-    url: https://www.mun.ca/
+# organizations:
+#   - name: Memorial University of Newfoundland
+#     url: https://www.mun.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am passionate on Software/Web Development, Cloud Computing, Data Science and Data Visualization.
@@ -24,7 +24,7 @@ bio: I am passionate on Software/Web Development, Cloud Computing, Data Science 
 interests:
   - Software Engineering
   - DevOps Engineering
-  - Full Stack Web Development
+  - Backend Engineering
   - Data Science
   - Data Visualization
 
