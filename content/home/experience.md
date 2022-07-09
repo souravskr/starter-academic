@@ -25,14 +25,20 @@ experience:
   - title: Cloud Developer
     company: Sequence Bio
     company_url: "http://www.sequencebio.com/"
-    location: St. John's
+    location: St. John's, NL
     date_start: "2021-07-12"
-    # date_end: "--"
+    date_end: "2022-07-7"
     description: |2-
 
-        * Will be involving in the development of AWS cloud infrastructure automation by Terraform.
-        * Will also be developing customized Amazon Machine Images.
-        * Docker containerization. 
+        * The Key contributor to the team to achieve on an average 96% quarterly task accomplishment.
+        * Efficiently solved Salesforce cases by working closely with the cloud and application team.
+        * Developed automation script to deploy new docker image to all Github repositories.
+        * AWS infrastructure deployment using Terraform and Terragrunt.
+        * Developed a CircleCI orb for the first time in Sequence Bio for hassle-free continuous integration.
+        * Implemented Black Duck: Synopsys detect and integrated with CircleCI.
+        * Terraform module upgradation from Terraform v0.11 to Terraform v1.0 for continuous future support.
+        * Responsible for building Docker images based on company policy.
+ 
 
   - title: Graduate Teaching Assistant
     company: Memorial University of Newfoundland
@@ -48,7 +54,7 @@ experience:
   - title: Jr. Cloud Engineer (Co-op)
     company: Inmarsat
     company_url: "http://inmarsat.com/"
-    location: Mount Pearl
+    location: Mount Pearl, NL
     date_start: "2020-01-06"
     date_end: "2020-04-30"
     description: |2-
