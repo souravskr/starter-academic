@@ -22,7 +22,7 @@ feature:
     name: Python
   - description:
     icon: golang
-    icon_pack: fas
+    icon_pack: fab
     name: Go
   - description:
     icon: java
