@@ -39,16 +39,16 @@ experience:
         * Terraform module upgradation from Terraform v0.11 to Terraform v1.0 for continuous future support.
         * Responsible for building Docker images based on company policy.
 
-  - title: Graduate Teaching Assistant
-    company: Memorial University of Newfoundland
-    company_url: "https://www.mun.ca"
-    location: St. John's
-    date_start: "2020-09-06"
-    date_end: "2020-12-14"
-    description: |2-
+- title: Graduate Teaching Assistant
+  company: Memorial University of Newfoundland
+  company_url: "https://www.mun.ca"
+  location: St. John's
+  date_start: "2020-09-06"
+  date_end: "2020-12-14"
+  description: |2-
 
-        * Checked assignments, proctored tests, and provided grades according to university standards.
-        * Prepared questions for quiz drills and assisted students in scheduled labs and grading.
+      * Checked assignments, proctored tests, and provided grades according to university standards.
+      * Prepared questions for quiz drills and assisted students in scheduled labs and grading.
 
   - title: Jr. Cloud Engineer (Co-op)
     company: Inmarsat
