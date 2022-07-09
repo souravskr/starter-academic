@@ -21,8 +21,8 @@ feature:
     icon_pack: fab
     name: Python
   - description:
-    icon: java
-    icon_pack: fab
+    icon: golang
+    icon_pack: fas
     name: Go
   - description:
     icon: java
