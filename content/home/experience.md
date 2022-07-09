@@ -30,19 +30,19 @@ experience:
   date_end: "2022-07-07"
   description: |2-
 
-        * The Key contributor to the team to achieve on an average 96% quarterly task accomplishment.
-        * Efficiently solved Salesforce cases by working closely with the cloud and application team.
-        * Developed automation script to deploy new docker image to all Github repositories.
-        * AWS infrastructure deployment using Terraform and Terragrunt.
-        * Developed a CircleCI orb for the first time in Sequence Bio for hassle-free continuous integration.
-        * Implemented Black Duck: Synopsys detect and integrated with CircleCI.
-        * Terraform module upgradation from Terraform v0.11 to Terraform v1.0 for continuous future support.
-        * Responsible for building Docker images based on company policy.
+      * The Key contributor to the team to achieve on an average 96% quarterly task accomplishment.
+      * Efficiently solved Salesforce cases by working closely with the cloud and application team.
+      * Developed automation script to deploy new docker image to all Github repositories.
+      * AWS infrastructure deployment using Terraform and Terragrunt.
+      * Developed a CircleCI orb for the first time in Sequence Bio for hassle-free continuous integration.
+      * Implemented Black Duck: Synopsys detect and integrated with CircleCI.
+      * Terraform module upgradation from Terraform v0.11 to Terraform v1.0 for continuous future support.
+      * Responsible for building Docker images based on company policy.
 
 - title: Graduate Teaching Assistant
   company: Memorial University of Newfoundland
   company_url: "https://www.mun.ca"
-  location: St. John's
+  location: St. John's, NL
   date_start: "2020-09-06"
   date_end: "2020-12-14"
   description: |2-
