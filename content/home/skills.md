@@ -21,9 +21,9 @@ feature:
     icon_pack: fab
     name: Python
   - description:
-    icon: js-square
+    icon: Go-Logo_Blue
     icon_pack: fab
-    name: JavaScript
+    name: Go
   - description:
     icon: java
     icon_pack: fab
