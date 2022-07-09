@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description:
-    icon: fa-golang
+    icon: golang
     icon_pack: fab
     name: Go
   - description:
