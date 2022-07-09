@@ -20,7 +20,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description:
+  - description: "90%"
     icon: Go-Logo_Blue
     icon_pack: custom
     name: Go
