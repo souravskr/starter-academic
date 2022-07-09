@@ -50,17 +50,17 @@ experience:
       * Checked assignments, proctored tests, and provided grades according to university standards.
       * Prepared questions for quiz drills and assisted students in scheduled labs and grading.
 
-  - title: Jr. Cloud Engineer (Co-op)
-    company: Inmarsat
-    company_url: "http://inmarsat.com/"
-    location: Mount Pearl, NL
-    date_start: "2020-01-06"
-    date_end: "2020-04-30"
-    description: |2-
+- title: Jr. Cloud Engineer (Co-op)
+  company: Inmarsat
+  company_url: "http://inmarsat.com/"
+  location: Mount Pearl, NL
+  date_start: "2020-01-06"
+  date_end: "2020-04-30"
+  description: |2-
 
-        * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
-        * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
-        * Demonstrated my quick learning ability with a proof of concept by working on writing python code for an AWS Lambda function and CI/CD process.
+      * Assisted in the development of automation capabilities to further the drive towards Infrastructure as Code (IaC).
+      * Played a role in the adoption and journey to the cloud, providing best practice guidance whilst supporting the migration of virtual and physical workloads into Amazon Web Services (AWS).
+      * Demonstrated my quick learning ability with a proof of concept by working on writing python code for an AWS Lambda function and CI/CD process.
 
   # - title: Jr. DevOps Engineer
   #   company: SK+F
