@@ -25,9 +25,13 @@ feature:
     icon_pack: fab
     name: Python
   - description:
-    icon: java
+    icon: cloudversify
     icon_pack: fab
-    name: Java
+    name: Terraform
+  - description:
+    icon: Go-Logo_Blue
+    icon_pack: custom
+    name: Go
   - description:
     icon: linux
     icon_pack: fab
@@ -48,10 +52,6 @@ feature:
     icon: docker
     icon_pack: fab
     name: Docker
-  - description:
-    icon: cloudversify
-    icon_pack: fab
-    name: Terraform
   - description:
     icon: github-alt
     icon_pack: fab
