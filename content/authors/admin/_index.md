@@ -32,9 +32,11 @@ interests:
 education:
   courses:
     - course: M.S. in Computer Science (GPA 3.75/4.0)
-    - institution: Memorial University of Newfoundland
-    - year: 2021
-
+      institution: Memorial University of Newfoundland
+      # year: 2021
+    - course: B.S. in Information & Communication Engineering (GPA 3.89/4.0)
+      institution: Southeast University
+      # year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
