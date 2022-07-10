@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills & Tools
 subtitle:
 
 # Showcase personal skills or business features.
@@ -29,17 +29,17 @@ feature:
     icon_pack: fab
     name: Terraform
   - description:
-    icon: Go-Logo_Blue
-    icon_pack: custom
-    name: Go
+    icon: java
+    icon_pack: fab
+    name: Java
   - description:
     icon: linux
     icon_pack: fab
     name: Shell Scripting
   - description:
-    icon: node
+    icon: golang
     icon_pack: fab
-    name: Node.js
+    name: Go
   - description:
     icon: database
     icon_pack: fas
