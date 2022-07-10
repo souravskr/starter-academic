@@ -10,7 +10,7 @@ role: Software Developer | Cloud Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sequence Bio | Memorial University of Newfoundland
+  - name: Memorial University of Newfoundland
     url: https://www.mun.ca/
   
 # organizations:
@@ -22,11 +22,11 @@ bio: I am passionate on Software/Web Development, Cloud Computing, Data Science 
 
 # Interests to show in About widget
 interests:
-  - Software Engineering
+  - Cloud Automation
   - DevOps Engineering
+  - Software Engineering
   - Backend Engineering
   - Data Science
-  - Data Visualization
 
 # Education to show in About widget
 education:
@@ -62,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "souravsker@gmail.com"
@@ -73,9 +73,7 @@ email: "souravsker@gmail.com"
 highlight_name: false
 ---
 
-Resourceful computer science graduate passionate about software development, data science and cloud computing.
-
-Highly-capable leader, having led multiple class projects to completion. Talented at object-oriented design, functional programming paradigms and various development languages. Demonstrated mastery of Python, Java and Javascript as well as passion for continual learning.
+Resourceful computer science graduate passionate about DevOps and cloud infrastructure automation. Talented at infrastructure as code and cloud infrastructure development. AWS certified developer associate and HashiCorp certified Terraform associate. Demonstrated mastery of automation scripting on Python as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
 
 <!-- Recent graduate from Memorial University and currently looking for a full-time job in Software Development. -->
 
