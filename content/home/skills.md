@@ -37,8 +37,8 @@ feature:
     icon_pack: fab
     name: Shell Scripting
   - description:
-    icon: golang
-    icon_pack: fab
+    icon: Go-Logo_Blue
+    icon_pack: custom
     name: Go
   - description:
     icon: database
