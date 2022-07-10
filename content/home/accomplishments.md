@@ -26,7 +26,7 @@ item:
   - certificate_url: https://www.credly.com/badges/a66431f9-a667-473f-8c90-5d52dfdf0e2b/public_url
     date_end: "2025-04-03"
     date_start: "2022-04-03"
-    description: "Earners of this certification have a comprehensive understanding of application life-cycle management and demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices."
+    description: "Earners of this certification have a comprehensive understanding of application life-cycle management and demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline."
     organization: Amazon Web Services Training and Certification
     organization_url: https://aws.amazon.com/training/
     title: "AWS Certified Developer – Associate"
@@ -34,7 +34,7 @@ item:
   - certificate_url: https://www.credly.com/badges/512fa77d-17ab-4806-a844-29cb66fa47ec/public_url
     date_end: "2023-09-29"
     date_start: "2021-09-29"
-    description: "Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, skills, and use cases associated with open source HashiCorp Terraform. They understand and can utilize Terraform according to the certification objectives. Additionally, they understand why enterprises choose to extend Terraform Open Source with Terraform Enterprise to solve business critical objectives."
+    description: "Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, skills, and use cases associated with open source HashiCorp Terraform. They understand and can utilize Terraform according to the certification objectives."
     organization: HashiCorp
     organization_url: https://www.hashicorp.com/certification
     title: "HashiCorp Certified: Terraform Associate"
