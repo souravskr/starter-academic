@@ -33,9 +33,9 @@ feature:
     icon_pack: fab
     name: Shell Scripting
   - description:
-    icon: brain
-    icon_pack: fas
-    name: Machine Learning
+    icon: node
+    icon_pack: fab
+    name: Node.js
   - description:
     icon: database
     icon_pack: fas
@@ -44,10 +44,6 @@ feature:
     icon: envira
     icon_pack: fab
     name: MongoDB
-  - description:
-    icon: node
-    icon_pack: fab
-    name: Node.js
   - description:
     icon: docker
     icon_pack: fab
@@ -60,6 +56,10 @@ feature:
     icon: github-alt
     icon_pack: fab
     name: Git
+  - description:
+    icon: brain
+    icon_pack: fas
+    name: Machine Learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
