@@ -33,10 +33,8 @@ education:
   courses:
     - course: M.S. in Computer Science (GPA 3.75/4.0)
       institution: Memorial University of Newfoundland
-      # year: 2021
-    - course: B.S. in Information & Communication Engineering (GPA 3.89/4.0)
-      institution: Southeast University
-      # year: 2015
+      year: 2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,9 +53,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sourav-s
-  - icon: file-download
-    icon_pack: fas
-    link: https://github.com/souravskr/starter-academic/blob/master/static/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,6 +69,7 @@ highlight_name: false
 ---
 
 Resourceful computer science graduate passionate about DevOps and cloud infrastructure automation. Talented at infrastructure as code and cloud infrastructure development. 
+
 AWS certified developer associate and HashiCorp certified Terraform associate. Demonstrated mastery of automation scripting on Python as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
 
 <!-- Recent graduate from Memorial University and currently looking for a full-time job in Software Development. -->
