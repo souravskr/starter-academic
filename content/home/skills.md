@@ -57,6 +57,10 @@ feature:
     icon_pack: fab
     name: Git
   - description:
+    icon: circleci
+    icon_pack: custom
+    name: CircleCI
+  - description:
     icon: brain
     icon_pack: fas
     name: Machine Learning
