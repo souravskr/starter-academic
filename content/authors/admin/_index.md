@@ -62,8 +62,8 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
+  - icon: file-download
+    icon_pack: fas
     link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -73,7 +73,8 @@ email: "souravsker@gmail.com"
 highlight_name: false
 ---
 
-Resourceful computer science graduate passionate about DevOps and cloud infrastructure automation. Talented at infrastructure as code and cloud infrastructure development. AWS certified developer associate and HashiCorp certified Terraform associate. Demonstrated mastery of automation scripting on Python as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
+Resourceful computer science graduate passionate about DevOps and cloud infrastructure automation. Talented at infrastructure as code and cloud infrastructure development. 
+AWS certified developer associate and HashiCorp certified Terraform associate. Demonstrated mastery of automation scripting on Python as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
 
 <!-- Recent graduate from Memorial University and currently looking for a full-time job in Software Development. -->
 
