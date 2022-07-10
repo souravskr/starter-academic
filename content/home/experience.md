@@ -30,7 +30,7 @@ experience:
   date_end: "2022-07-07"
   description: |2-
 
-      * The Key contributor to the team to achieve on an average 96% quarterly task accomplishment.
+      * One of the key contributors to the team to achieve on an average 96% quarterly task accomplishment.
       * Efficiently solved Salesforce cases by working closely with the cloud and application team.
       * Developed automation script to deploy new docker image to all Github repositories.
       * AWS infrastructure deployment using Terraform and Terragrunt.
