@@ -6,7 +6,7 @@ title: Sourav Sarker
 superuser: true
 
 # Role/position/tagline
-role: Software Developer | Cloud Developer
+role: DevOps Developer | Cloud Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,8 +32,8 @@ interests:
 education:
   courses:
     - course: M.S. in Computer Science (GPA 3.75/4.0)
-      institution: Memorial University of Newfoundland
-      year: 2021
+    - institution: Memorial University of Newfoundland
+    - year: 2021
 
 
 # Social/Academic Networking
