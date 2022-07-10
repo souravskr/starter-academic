@@ -17,17 +17,21 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description:
+    icon: aws
+    icon_pack: fab
+    name: AWS
+  - description:
     icon: python
     icon_pack: fab
     name: Python
   - description:
-    icon: golang
-    icon_pack: fab
-    name: Go
-  - description:
     icon: java
     icon_pack: fab
     name: Java
+  - description:
+    icon: linux
+    icon_pack: fab
+    name: Shell Scripting
   - description:
     icon: brain
     icon_pack: fas
@@ -41,10 +45,6 @@ feature:
     icon_pack: fab
     name: MongoDB
   - description:
-    icon: affiliatetheme
-    icon_pack: fab
-    name: Flask
-  - description:
     icon: node
     icon_pack: fab
     name: Node.js
@@ -52,10 +52,6 @@ feature:
     icon: docker
     icon_pack: fab
     name: Docker
-  - description:
-    icon: aws
-    icon_pack: fab
-    name: AWS
   - description:
     icon: cloudversify
     icon_pack: fab
