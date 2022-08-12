@@ -74,6 +74,8 @@ Resourceful computer science graduate passionate about DevOps and cloud infrastr
 
 AWS certified developer associate and HashiCorp certified Terraform associate. Demonstrated mastery of automation scripting on Python as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
 
+Over 200 pull requests were approved and merged within a year. Helped Synopsys to identify a bug in their Black Duck Software Composition Analysis product. Contributed to GruntWork's Terragrunt module to fix the AWS Backup Vault Access Policy setup bug.
+
 <!-- Recent graduate from Memorial University and currently looking for a full-time job in Software Development. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
