@@ -56,7 +56,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sourav-s
   - icon: code
-    icon_pack: fab
+    icon_pack: fa
     link: https://leetcode.com/oxenpond 
 
 # Link to a PDF of your resume/CV.
