@@ -6,7 +6,7 @@ title: Sourav Sarker
 superuser: true
 
 # Role/position/tagline
-role: DevOps Developer | Cloud Developer
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,10 +22,9 @@ bio: I am passionate on Software/Web Development, Cloud Computing, Data Science 
 
 # Interests to show in About widget
 interests:
-  - Cloud Automation
-  - DevOps Engineering
-  - Software Engineering
-  - Backend Engineering
+  - Backend Software Engineering
+  - Serverless Software Development
+  - Infrastructure Automation
   - Data Science
 
 # Education to show in About widget
