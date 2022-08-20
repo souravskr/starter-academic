@@ -72,9 +72,9 @@ email: "souravsker@gmail.com"
 highlight_name: false
 ---
 
-Resourceful computer science graduate passionate about Software Engineering. Talented at infrastructure as code and cloud infrastructure development. 
+Resourceful computer science graduate passionate about Software Engineering and serverless software development. 
 
-AWS certified developer associate and HashiCorp certified Terraform associate. Confident in developing  automation scripting on Python and NodeJs as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
+AWS certified developer associate and HashiCorp certified Terraform associate. Proficient in developing automation scripting on Python and NodeJs as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
 
 Over 200 pull requests were approved and merged within a year. Helped Synopsys to identify a bug in their Black Duck Software Composition Analysis product. Contributed to GruntWork's Terragrunt module to fix the AWS Backup Vault Access Policy setup bug.
 
