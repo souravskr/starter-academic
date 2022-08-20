@@ -55,6 +55,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sourav-s
+  - icon: code
+    icon_pack: fab
+    link: https://leetcode.com/oxenpond 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,9 +73,9 @@ email: "souravsker@gmail.com"
 highlight_name: false
 ---
 
-Resourceful computer science graduate passionate about DevOps and cloud infrastructure automation. Talented at infrastructure as code and cloud infrastructure development. 
+Resourceful computer science graduate passionate about Software Engineering. Talented at infrastructure as code and cloud infrastructure development. 
 
-AWS certified developer associate and HashiCorp certified Terraform associate. Demonstrated mastery of automation scripting on Python as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
+AWS certified developer associate and HashiCorp certified Terraform associate. Confident in developing  automation scripting on Python and NodeJs as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
 
 Over 200 pull requests were approved and merged within a year. Helped Synopsys to identify a bug in their Black Duck Software Composition Analysis product. Contributed to GruntWork's Terragrunt module to fix the AWS Backup Vault Access Policy setup bug.
 
