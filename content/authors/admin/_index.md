@@ -72,7 +72,7 @@ email: "souravsker@gmail.com"
 highlight_name: false
 ---
 
-Resourceful computer science graduate passionate about Software Engineering and serverless software development. 
+Resourceful computer science graduate passionate about software engineering and serverless software development. 
 
 AWS certified developer associate and HashiCorp certified Terraform associate. Proficient in developing automation scripting on Python and NodeJs as well as passion for continual learning. Excellent team player with solid troubleshooting and problem-solving skills.
 
