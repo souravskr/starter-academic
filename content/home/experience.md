@@ -27,7 +27,7 @@ experience:
   company_url: "http://www.sequencebio.com/"
   location: St. John's, NL
   date_start: "2021-07-12"
-  date_end: "2022-07-07"
+<!--   date_end: "2022-07-07" -->
   description: |2-
 
       * One of the key contributors to the team to achieve on an average 96% quarterly task accomplishment.
