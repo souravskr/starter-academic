@@ -24,10 +24,11 @@ date_format: Jan 2006
 experience:
 - title: Cloud Developer
   company: Sequence Bio
-  company_url: "http://www.sequencebio.com/"
+  company_url: 'http://www.sequencebio.com/'
+  company_log: sb
   location: St. John's, NL
-  date_start: "2021-07-12"
-  date_end: ""
+  date_start: '2021-07-12'
+  date_end: ''
   description: |2-
 
       * One of the key contributors to the team to achieve on an average 96% quarterly task accomplishment.
